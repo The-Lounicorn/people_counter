@@ -21,3 +21,4 @@ A lightweight, responsive web app that tracks the number of people entering a sp
 - Color contrast meets WCAG standards
 
 🚀 Live Demo
+https://the-lounicorn.github.io/people_counter/
